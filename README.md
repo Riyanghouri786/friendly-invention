@@ -1,1 +1,1 @@
-# friendly-invention!
+# friendly-invention
